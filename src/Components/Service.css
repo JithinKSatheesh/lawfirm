@@ -1,0 +1,10 @@
+.service-container{
+    width: 100%;
+    background-color: #323a43;
+}
+
+.service-box{
+    border: 1px solid #cdba6d;
+    padding: 10px;
+    margin: 10px;
+}

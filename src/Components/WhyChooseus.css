@@ -1,0 +1,13 @@
+.choose-box-container{
+    transform: translateY(-100px);
+}
+
+@media screen and (max-width:600px){
+    .choose-box-container{
+        transform: translateY(0px);
+    }
+}
+
+.choose-box{
+    height: 300px;
+}

@@ -1,0 +1,40 @@
+.nav-logo{
+    width: 200px;
+}
+
+.btn-box-gold{
+    border: 2px solid #cdba6d;
+    padding: 10px;
+}
+.nav-bar-body{
+    background-color: #323a43;
+}
+
+.navbar-link{
+    color: white;
+    font-weight: bold;
+}
+
+.nav-dropdown {
+    display: inline-flex;
+}
+
+
+@media screen and (max-width:500px)
+{
+
+    .nav-bar{
+        position: fixed;
+        z-index: 1000;
+        top: 0;
+    }
+    /* .navbar-link{
+        width: 100%;
+    }
+    .nav-dropdown{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+
+    } */
+}

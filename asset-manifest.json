@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lawfirm/static/css/main.5f361e03.chunk.css",
+    "main.js": "/lawfirm/static/js/main.56075796.chunk.js",
+    "main.js.map": "/lawfirm/static/js/main.56075796.chunk.js.map",
+    "runtime-main.js": "/lawfirm/static/js/runtime-main.6ab641b2.js",
+    "runtime-main.js.map": "/lawfirm/static/js/runtime-main.6ab641b2.js.map",
+    "static/js/2.b524ac27.chunk.js": "/lawfirm/static/js/2.b524ac27.chunk.js",
+    "static/js/2.b524ac27.chunk.js.map": "/lawfirm/static/js/2.b524ac27.chunk.js.map",
+    "index.html": "/lawfirm/index.html",
+    "precache-manifest.1df2fab61bbf8d9c174f75d840c84ac0.js": "/lawfirm/precache-manifest.1df2fab61bbf8d9c174f75d840c84ac0.js",
+    "service-worker.js": "/lawfirm/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/lawfirm/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b524ac27.chunk.js.LICENSE.txt": "/lawfirm/static/js/2.b524ac27.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lawfirm/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ab641b2.js",
+    "static/js/2.b524ac27.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.56075796.chunk.js"
+  ]
+}

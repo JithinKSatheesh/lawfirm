@@ -7,15 +7,15 @@ export default function Service(props) {
     return (
         <>
             <div className="space-50"></div>
-            <div className="service-container">
+            <div className="service-container" id="service">
                 <div className="container">
                     <div className="space-100"></div>
                     <div className="text-center text-gold font-weight-bold">
-                        OUR SERVICE
+                        {/* OUR SERVICE */}
                     </div>
                     <div className="space-20"></div>
-                    <div className="h2 text-center text-white">
-                        We are skilled in
+                    <div className="h2 text-center text-gold">
+                    OUR SERVICE
                     </div>
                     <div className="space-100"></div>
                     <div className="row text-white">
@@ -28,7 +28,7 @@ export default function Service(props) {
                                 </div>
                                 <br/>
                                 <div className="h6">
-                                    Post a question and get advice 
+                                  
                                 </div>
                             </div>
                         </div>
@@ -41,7 +41,7 @@ export default function Service(props) {
                                 </div>
                                 <br/>
                                 <div className="h6">
-                                    Post a question and get advice 
+                                  
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@ export default function Service(props) {
                                 </div>
                                 <br/>
                                 <div className="h6">
-                                    Post a question and get advice 
+                                  
                                 </div>
                             </div>
                         </div>
@@ -67,7 +67,7 @@ export default function Service(props) {
                                 </div>
                                 <br/>
                                 <div className="h6">
-                                    Post a question and get advice 
+                                  
                                 </div>
                             </div>
                         </div>
@@ -80,7 +80,60 @@ export default function Service(props) {
                                 </div>
                                 <br/>
                                 <div className="h6">
-                                    Post a question and get advice 
+                                  
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col col-12 col-md-3 ">
+                            <div className="service-box">
+                                <div className="h5 font-weight-bold old-font">
+                                <svg   fill="#cdba6d" width="24" height="24" viewBox="0 0 24 24"><path d="M19.099 11.136c-1.449 1.97-3.599 3.914-6.021 3.597-.655.916-1.387 2.194-2.199 3.678l-1.879.589c1.589-3.101 3.712-6.53 5.989-9.136-.986.642-2.606 2.023-4.016 3.479-1.271-2.656.069-5.115 2.012-6.994-.056.885.337 1.692.631 2.107-.05-.74.036-2.062.576-3.207 1.082-.913 2.039-1.57 3.132-2.145-.177.647-.025 1.423.182 1.907.095-.67.494-1.937.955-2.462 1.364-.88 3.384-1.584 5.539-1.548-.238 1.328-.936 3.484-1.877 4.821-.761.489-1.766.775-2.566.913.663.186 1.407.24 2.052.192-.469.987-.946 1.891-1.667 3-.995.555-2.267.8-3.135.846.607.319 1.714.505 2.292.363zm-1.099 4.009v5.855h-16v-12h6.875c.229-.673.547-1.342.979-2h-9.854v16h20v-9.788c-.574.679-1.239 1.355-2 1.933z"/></svg>
+                                <br/><br/>
+                                Legal Agreements
+                                </div>
+                                <br/>
+                                <div className="h6">
+                                  
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col col-12 col-md-3 ">
+                            <div className="service-box">
+                                <div className="h5 font-weight-bold old-font">
+                                <svg fill="#cdba6d" width="24" height="24" fill-rule="evenodd" clip-rule="evenodd"><path d="M24 24h-23v-16h6v-8h11v12h6v12zm-12-5h-3v4h3v-4zm4 0h-3v4h3v-4zm6 0h-2v4h2v-4zm-17 0h-2v4h2v-4zm11-5h-2v2h2v-2zm-5 0h-2v2h2v-2zm11 0h-2v2h2v-2zm-17 0h-2v2h2v-2zm11-4h-2v2h2v-2zm-5 0h-2v2h2v-2zm-6 0h-2v2h2v-2zm11-4h-2v2h2v-2zm-5 0h-2v2h2v-2zm5-4h-2v2h2v-2zm-5 0h-2v2h2v-2z"/></svg>
+                                <br/><br/>
+                                Company Registration
+                                </div>
+                                <br/>
+                                <div className="h6">
+                                  
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col col-12 col-md-3 ">
+                            <div className="service-box">
+                                <div className="h5 font-weight-bold old-font">
+                               
+                                <svg width="24" height="24" fill="#cdba6d" fill-rule="evenodd" clip-rule="evenodd"><path d="M24 24h-24v-2h24v2zm-1-3h-22v-1h22v1zm-17-1.999h-4v-7.001c-.552 0-1-.448-1-1s.448-1 1-1h4c.552 0 1 .448 1 1s-.448 1-1 1v7.001zm8 0h-4v-7.001c-.552 0-1-.448-1-1s.448-1 1-1h4c.552 0 1 .448 1 1s-.448 1-1 1v7.001zm8 0h-4v-7.001c-.552 0-1-.448-1-1s.448-1 1-1h4c.552 0 1 .448 1 1s-.448 1-1 1v7.001zm-10-19.001l-12 9h24.001l-12.001-9zm0 3c1.104 0 2 .896 2 2s-.896 2-2 2-2-.896-2-2 .896-2 2-2z"/></svg>
+                                <br/><br/>
+                                Legal Advice
+                                </div>
+                                <br/>
+                                <div className="h6">
+                                  
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col col-12 col-md-3 ">
+                            <div className="service-box">
+                                <div className="h5 font-weight-bold old-font">
+                                <svg fill="#cdba6d" width="24" height="24" viewBox="0 0 24 24"><path d="M10 8h-5v-1h5v1zm0 1h-5v1h5v-1zm0 2h-5v1h5v-1zm-2 2h-3v1h3v-1zm10.692-3.939c-.628-.436-.544-.327-.782-1.034-.099-.295-.384-.496-.705-.496h-.003c-.773.003-.64.044-1.265-.394-.129-.092-.283-.137-.437-.137s-.308.045-.438.137c-.629.442-.492.397-1.265.394h-.003c-.321 0-.606.201-.705.496-.238.71-.156.6-.781 1.034-.198.137-.308.353-.308.578l.037.222c.242.708.242.572 0 1.278l-.037.222c0 .224.11.441.309.578.625.434.545.325.781 1.033.099.296.384.495.705.495h.003c.773-.003.64-.044 1.265.394.129.093.283.139.437.139s.308-.046.438-.138c.625-.438.49-.397 1.265-.394h.003c.321 0 .606-.199.705-.495.238-.708.154-.599.782-1.033.197-.137.307-.355.307-.579l-.037-.222c-.242-.709-.24-.573 0-1.278l.037-.222c0-.225-.11-.443-.308-.578zm-3.192 3.189c-.967 0-1.75-.784-1.75-1.75 0-.967.783-1.751 1.75-1.751s1.75.784 1.75 1.751c0 .966-.783 1.75-1.75 1.75zm1.241 2.758l.021-.008h1.238v7l-2.479-1.499-2.521 1.499v-7h1.231c.415.291.69.5 1.269.5.484 0 .931-.203 1.241-.492zm-16.741-13.008v17h11v-2h-9v-13h20v13h-2v2h4v-17h-24z"/></svg>
+                                <br/><br/>
+                                Certification Mark Registration
+                                </div>
+                                <br/>
+                                <div className="h6">
+                                  
                                 </div>
                             </div>
                         </div>

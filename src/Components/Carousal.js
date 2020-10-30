@@ -1,5 +1,6 @@
 import React from 'react'
 import './Carousal.css'
+import {Link} from 'react-router'
 
 import slider1 from '../images/slider1.jpg'
 
@@ -10,14 +11,17 @@ function Image1(){
                 <div className="space-100"></div>
                 <div className="space-50"></div>
                 <div className="container">
-                    <div className="display-2 old-font text-white">
-                        Legal Insight.
+                    <div className="display-4 old-font text-white">
+                    “Well Branded is Half Done”
                     </div>
-                    <div className="h3 old-font text-white">
-                        Smart approach to legal solutions with exceptional service
+                    <div className="h5 old-font text-white p-2">
+                    Business opportunities are like seasons, there's always another one coming,
+                    <br/>
+                    So play by the rules, but be ferocious.
+
                     </div>
                     <div className="space-20"></div>
-                    <div className="box-btn">Learn more</div>
+                    <div style={{cursor:"pointer"}} className="box-btn">Learn more</div>
                 </div>
             </div>
             {/* <img src={slider1} className="carousal-img" alt=""/> */}

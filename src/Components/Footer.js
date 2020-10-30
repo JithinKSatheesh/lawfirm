@@ -1,6 +1,8 @@
 import React from 'react'
 import './Footer.css'
 
+import Scrollspy from 'react-scrollspy'
+
 import logo from '../images/logo-dark.png'
 
 export default function Footer(props) {
@@ -16,15 +18,24 @@ export default function Footer(props) {
                             <img className="nav-logo" src={logo} alt="" />
                         </div>
                         <div className="col col-12 col-lg-6">
+                        <Scrollspy items={ ['about', 'contact', 'service'] } currentClassName="is-current">
                             <div className="text-white old-font font-wight-bold h5 text-md-right text-center">
+                            <a style={{textDecoration:"none",color:"white"}} href="#about">
                                 About
+                            </a>
                             </div>
                             <div className="text-white old-font font-wight-bold h5 text-md-right text-center">
+                            <a style={{textDecoration:"none",color:"white"}} href="#contact">
                                 contact
+                            </a>
+                                
                             </div>
                             <div className="text-white old-font font-wight-bold h5 text-md-right text-center">
-                                service
+                               <a style={{textDecoration:"none",color:"white"}} href="#service">
+                                service   
+                                </a> 
                             </div>
+                        </Scrollspy>
 
                         </div>
                     </div>

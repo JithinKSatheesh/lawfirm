@@ -39,7 +39,7 @@ export default function Contactus(props) {
                                 OUR ADDRESS
                             </div> 
                             <div className="h6  p-2">
-                                Trademark BPO, Kacherippadi, Manjeri, Kerala, PIN 676121
+                                Trademark BPO, <br/> Kacherippadi, Manjeri, Kerala, PIN 676121
                             </div>
 
                         </div>

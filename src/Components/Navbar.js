@@ -9,14 +9,14 @@ export default function Navbar(props) {
 
     return (
         <>
-            <div className="nav-header  p-2">
-                <div className="space-50 mobile-no-display"></div>
+            <div className="nav-header mobile-no-display  p-2">
+                <div className="space-50 "></div>
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-6 text-dark">
                             <img className="nav-logo" src={logodark} />
                         </div>
-                        <div className="col-12 col-md-6 mobile-no-display">
+                        <div className="col-12 col-md-6 ">
                             <div className="row">
                                 <div className="col-4  old-font">
                                     <div className="h6  font-weight-bold">
@@ -58,12 +58,15 @@ export default function Navbar(props) {
                 </div>
             </div>
             {/* ========================= */}
-            <div className="space-20"></div>
+            <div className="space-20 mobile-no-display"></div>
             <div className="nav-bar">
                 <div className="nav-bar-body">
                     <div className="space-20"></div>
                     <div className="nav-menu-container">
                         <div className="container">
+                            <div className="col-12 col-md-6 mobile-yes-display" >
+                                <img className="nav-logo" src={logodark} />
+                            </div>
                             <div className="nav-menu-dropdown ">
                                 <div className="navbar-link p-2 mr-3 ">
                                     <a style={{color:"white"}} href="#home">

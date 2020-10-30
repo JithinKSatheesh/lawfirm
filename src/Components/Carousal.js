@@ -22,6 +22,7 @@ function Image1(){
                     </div>
                     <div className="space-20"></div>
                     <div style={{cursor:"pointer"}} className="box-btn">Learn more</div>
+                    <div className="space-50"></div>
                 </div>
             </div>
             {/* <img src={slider1} className="carousal-img" alt=""/> */}

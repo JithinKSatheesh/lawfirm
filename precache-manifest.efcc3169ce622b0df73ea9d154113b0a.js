@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "022e5fc6ab657d7a08f5f511cd2a0b76",
+    "revision": "751cedf1a65a5a80c610120f411fd7ea",
     "url": "/lawfirm/index.html"
   },
   {
-    "revision": "592ef88b7efb7f72af64",
-    "url": "/lawfirm/static/css/main.8dff46f6.chunk.css"
+    "revision": "5163f3d7e37352729d54",
+    "url": "/lawfirm/static/css/main.4380bbcc.chunk.css"
   },
   {
     "revision": "3b3bdcb13df3b6257ef7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lawfirm/static/js/2.83fa2b2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "592ef88b7efb7f72af64",
-    "url": "/lawfirm/static/js/main.20672889.chunk.js"
+    "revision": "5163f3d7e37352729d54",
+    "url": "/lawfirm/static/js/main.441e310c.chunk.js"
   },
   {
     "revision": "5b85401dcfa61a680094",

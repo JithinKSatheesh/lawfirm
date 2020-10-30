@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lawfirm/static/css/main.8dff46f6.chunk.css",
-    "main.js": "/lawfirm/static/js/main.20672889.chunk.js",
-    "main.js.map": "/lawfirm/static/js/main.20672889.chunk.js.map",
+    "main.css": "/lawfirm/static/css/main.4380bbcc.chunk.css",
+    "main.js": "/lawfirm/static/js/main.441e310c.chunk.js",
+    "main.js.map": "/lawfirm/static/js/main.441e310c.chunk.js.map",
     "runtime-main.js": "/lawfirm/static/js/runtime-main.6ab641b2.js",
     "runtime-main.js.map": "/lawfirm/static/js/runtime-main.6ab641b2.js.map",
     "static/js/2.83fa2b2b.chunk.js": "/lawfirm/static/js/2.83fa2b2b.chunk.js",
     "static/js/2.83fa2b2b.chunk.js.map": "/lawfirm/static/js/2.83fa2b2b.chunk.js.map",
     "index.html": "/lawfirm/index.html",
-    "precache-manifest.6235531fa7069c66e76c488f24d97b23.js": "/lawfirm/precache-manifest.6235531fa7069c66e76c488f24d97b23.js",
+    "precache-manifest.efcc3169ce622b0df73ea9d154113b0a.js": "/lawfirm/precache-manifest.efcc3169ce622b0df73ea9d154113b0a.js",
     "service-worker.js": "/lawfirm/service-worker.js",
-    "static/css/main.8dff46f6.chunk.css.map": "/lawfirm/static/css/main.8dff46f6.chunk.css.map",
+    "static/css/main.4380bbcc.chunk.css.map": "/lawfirm/static/css/main.4380bbcc.chunk.css.map",
     "static/js/2.83fa2b2b.chunk.js.LICENSE.txt": "/lawfirm/static/js/2.83fa2b2b.chunk.js.LICENSE.txt",
     "static/media/img-3.jpg": "/lawfirm/static/media/img-3.2b126b9b.jpg",
     "static/media/logo-dark.png": "/lawfirm/static/media/logo-dark.73f468ad.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.6ab641b2.js",
     "static/js/2.83fa2b2b.chunk.js",
-    "static/css/main.8dff46f6.chunk.css",
-    "static/js/main.20672889.chunk.js"
+    "static/css/main.4380bbcc.chunk.css",
+    "static/js/main.441e310c.chunk.js"
   ]
 }

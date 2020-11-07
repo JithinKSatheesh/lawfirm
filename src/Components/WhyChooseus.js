@@ -87,7 +87,7 @@ export default function Whychooseus(props) {
                             {/* Message */}
                         </div>
                         <div className="text-dark  h1 old-font  font-weight-old">
-                            Our message
+                            About
                         </div>
                         <div className="space-20"></div>
                         <div className="p h6 text-secondary">
@@ -96,10 +96,10 @@ export default function Whychooseus(props) {
                             <span className="text-gold h2">I</span>
                             " We believe in building upon and extending the strengths of the individuals to create a 
                             transformational business environment to inspire, prepare, and support entrepreneurial leaders to turn ideas into action in pursuing 
-                            innovative solutions to the world’s most pressing problems.""
+                            innovative solutions to the world’s most pressing problems."
 
                             <div className="space-20"></div>
-                            <img src={sign} alt="" />
+                            {/* <img src={sign} alt="" /> */}
                         </Slide>
 
                         </div>

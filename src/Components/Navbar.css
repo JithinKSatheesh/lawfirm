@@ -2,6 +2,14 @@
     width: 200px;
 }
 
+.nav-bar{
+    width: 100%;
+}
+.nav-fixed{
+    position: fixed;
+    z-index: 10000;
+    top: 0;
+}
 .btn-box-gold{
     border: 2px solid #cdba6d;
     padding: 10px;
